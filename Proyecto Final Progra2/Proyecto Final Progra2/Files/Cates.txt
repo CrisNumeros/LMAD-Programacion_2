@@ -1,0 +1,5 @@
+Nueva Categoria...
+Familiares
+Amigos
+Trabajo
+Escuela
